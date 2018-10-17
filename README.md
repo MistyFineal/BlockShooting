@@ -1,5 +1,13 @@
 # BlockShooting
 
+【開発環境】
+
+VisualStudio2017 Community
+
+【使用ライブラリ】
+
+DXライブラリ
+
 【ルール】
 
 とにかくブロックを壊してハイスコアを目指してください
