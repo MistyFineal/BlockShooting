@@ -2,7 +2,7 @@
 
 【開発環境】
 
-VisualStudio2017 Community
+VisualStudio2017
 
 【使用ライブラリ】
 
